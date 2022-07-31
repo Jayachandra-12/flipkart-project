@@ -1,0 +1,19 @@
+.bg{
+    background-image: url('https://www.theindianwire.com/wp-content/uploads/2020/04/Flipkart.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.dimg {
+    height: 450px;
+    width: 300px;
+}
+.butn {
+    justify-content: flex-end;
+    width: 100px;
+    height: 50px;
+}
+.logo {
+    opacity: 0.75;
+}
+
+

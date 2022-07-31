@@ -1,0 +1,10 @@
+.w50{
+    width: 500px;
+}
+.login{
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color:rgba(150, 188, 173, 0.403);
+    text-shadow: 2px 7px 8px #4a1b0d;
+}

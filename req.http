@@ -1,0 +1,9 @@
+POST http://localhost:4000/user-api/create-user
+Content-Type: application/json
+    
+{
+  "email": "gangishettyrinku@gmail.com",
+  "password": "rinku"
+}
+###
+GET http://localhost:4000/clothes-api/clothes
